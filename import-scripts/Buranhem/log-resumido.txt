@@ -1,0 +1,32 @@
+FUNDO -> campanhas/campanha_1/fundo.csv -> 0 registros
+SUPERFICIE -> campanhas/campanha_1/superficie.csv -> 17105 registros
+FUNDO -> campanhas/campanha_10/fundo.csv -> 4464 registros
+SUPERFICIE -> campanhas/campanha_10/superficie.csv -> 4463 registros
+FUNDO -> campanhas/campanha_11/fundo.csv -> 3018 registros
+SUPERFICIE -> campanhas/campanha_11/superficie.csv -> 6028 registros
+FUNDO -> campanhas/campanha_12/fundo.csv -> 4763 registros
+SUPERFICIE -> campanhas/campanha_12/superficie.csv -> 4486 registros
+FUNDO -> campanhas/campanha_13/fundo.csv -> 2178 registros
+SUPERFICIE -> campanhas/campanha_13/superficie.csv -> 2543 registros
+FUNDO -> campanhas/campanha_14/fundo.csv -> 3875 registros
+SUPERFICIE -> campanhas/campanha_14/superficie.csv -> 4016 registros
+FUNDO -> campanhas/campanha_15/fundo.csv -> 3799 registros
+SUPERFICIE -> campanhas/campanha_15/superficie.csv -> 3073 registros
+FUNDO -> campanhas/campanha_2/fundo.csv -> 2608 registros
+SUPERFICIE -> campanhas/campanha_2/superficie.csv -> 0 registros
+FUNDO -> campanhas/campanha_3/fundo.csv -> 5992 registros
+SUPERFICIE -> campanhas/campanha_3/superficie.csv -> 5951 registros
+FUNDO -> campanhas/campanha_4/fundo.csv -> 1175 registros
+SUPERFICIE -> campanhas/campanha_4/superficie.csv -> 15979 registros
+FUNDO -> campanhas/campanha_5/fundo.csv -> 7799 registros
+SUPERFICIE -> campanhas/campanha_5/superficie.csv -> 8036 registros
+FUNDO -> campanhas/campanha_6/fundo.csv -> 8891 registros
+SUPERFICIE -> campanhas/campanha_6/superficie.csv -> 12707 registros
+FUNDO -> campanhas/campanha_7/fundo.csv -> 4586 registros
+SUPERFICIE -> campanhas/campanha_7/superficie.csv -> 3447 registros
+FUNDO -> campanhas/campanha_8/fundo.csv -> 9827 registros
+SUPERFICIE -> campanhas/campanha_8/superficie.csv -> 10000 registros
+FUNDO -> campanhas/campanha_9/fundo.csv -> 4310 registros
+SUPERFICIE -> campanhas/campanha_9/superficie.csv -> 3119 registros
+Log salvo: 158430 registros rejeitados
+Importação finalizada.
