@@ -1,0 +1,86 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : false,
+      "overwriteActivityTime" : false,
+      "description" : "O CORAL VIVO hoje é uma referência nacional e internacional na pesquisa e defesa da costa coralínea do Brasil."
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "b1cc8980-68e4-11f1-8955-ef05233794b6"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "f5ce6f60-804d-11f1-9d5e-93881344d427"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "48684b00-633f-11f1-87cb-4d5a0076efe4"
+    },
+    "label" : "Coral Vivo",
+    "name" : "Coral-Vivo",
+    "softwareId" : null,
+    "type" : "Water Monitor Profile"
+  },
+  "credentials" : {
+    "credentialsId" : "5sijshmau5ytogfebyrj",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1784069758685,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1784069758674,
+      "longValue" : 1784069758674,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1784069128335,
+      "longValue" : 1784069126258,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : -16.492559,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1780942563587,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : -39.068441,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1780942572697,
+      "longValue" : null,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}
