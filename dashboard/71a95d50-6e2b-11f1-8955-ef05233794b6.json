@@ -2411,7 +2411,7 @@
                 "7da9d4d9-02bf-2a78-b7e2-5f165c115565" : {
                   "sizeX" : 24,
                   "sizeY" : 5,
-                  "row" : 40,
+                  "row" : 39,
                   "col" : 0,
                   "resizable" : true,
                   "mobileOrder" : 12,
@@ -2483,7 +2483,7 @@
                 "0a147d74-9a27-b518-6f8b-175a0ce9366e" : {
                   "sizeX" : 13,
                   "sizeY" : 5,
-                  "row" : 35,
+                  "row" : 33,
                   "col" : 6,
                   "resizable" : true,
                   "mobileOrder" : 7,
@@ -2492,7 +2492,7 @@
                 "5229f2c5-bf0d-a859-bf77-d3cbab971cb5" : {
                   "sizeX" : 24,
                   "sizeY" : 3,
-                  "row" : 32,
+                  "row" : 30,
                   "col" : 0,
                   "resizable" : true,
                   "mobileOrder" : 6,
