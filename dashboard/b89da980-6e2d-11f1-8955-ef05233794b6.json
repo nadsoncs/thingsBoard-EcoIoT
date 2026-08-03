@@ -2676,7 +2676,7 @@
               "tooltipHideZeroValues" : null,
               "tooltipStackedShowTotal" : false
             },
-            "title" : "Time series chart",
+            "title" : "Pressão",
             "dropShadow" : true,
             "enableFullscreen" : true,
             "titleStyle" : null,
